@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "AI-powered study assistant for summarizing notes, contextual Q&A, and interactive quiz generation with cloud sync",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
